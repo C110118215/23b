@@ -118,3 +118,6 @@ public class app11 {
 }
 }
 ~~~
+
+2.請寫出相對應的java code (github 連結)
+![NKUST](logo.png "NKUST")
