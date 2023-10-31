@@ -77,7 +77,7 @@ alert(s)
 
 Ans：
 
-**CShape.java**        
+*CShape.java*        
 ~~~
 abstract class CShape{
     protected String color;
@@ -90,7 +90,7 @@ abstract class CShape{
 }
 ~~~
            
-**CTriangle.java**
+*CTriangle.java*
 ~~~
 class CTriangle extends CShape{
     double ca, cb, cc;
@@ -108,7 +108,7 @@ class CTriangle extends CShape{
    
 }
 ~~~
-**app11.java**
+*app11.java*
 ~~~
 public class app11 {
    public static void main(String[] args) {
@@ -119,8 +119,11 @@ public class app11 {
 }
 ~~~
 
+
 2.請寫出相對應的java code (github 連結)
 ![Zuvio](ZuvioQuestion.jpg "ZuvioQuestion")
+
+Ans：
 ~~~
 import java.util.ArrayList;
 import java.util.List;
